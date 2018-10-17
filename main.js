@@ -14,11 +14,11 @@ var app = new Vue({
             var choice = Math.floor(Math.random() * 2)
             switch(choice){
                 case 0:
-                this.is.stupid = "Yes, you are stupid";
+                this.is.stupid = "Yeaah, you stupid as fuck duuude";
                 break;
 
                 case 1:
-                this.is.stupid = "No, you're not stupid";
+                this.is.stupid = "Naahh fam, you not stupid";
                 break;
             }
         }
